@@ -27,9 +27,9 @@ The package can be used to illustrate numerical solution of social planner probl
 
 ![Illustration of optimal path in finite time window Ramsey model](./img/ramsey.png)
 
-### Hoel-Kverdokk simplified model for tax setting
+### Hoel-Kverndokk simplified model for tax setting
 
-![Illustration of Hoel-Kverdokk simplified model output](./img/hoel-kverdokk.png)
+![Illustration of Hoel-Kverndokk simplified model output](./img/hoel-kverndokk.png)
 
 How to cite
 ---
