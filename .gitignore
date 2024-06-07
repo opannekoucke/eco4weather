@@ -4,7 +4,9 @@
 **/.ipynb_checkpoints
 **/*.slides.html
 .idea
-noteboos/modeco/
+
+# package
+src/eco4weather.egg-info/
 
 #todo
 todo.md
