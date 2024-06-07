@@ -1,0 +1,21 @@
+# Jupyter
+**/__pycache__
+**/*.pyc
+**/.ipynb_checkpoints
+**/*.slides.html
+.idea
+noteboos/modeco/
+
+#todo
+todo.md
+
+# Documentation
+#modeco/doc_sphinx/*
+
+# build
+build/
+dist/
+modeco.egg-info/
+
+# swap files
+**/.*.swp
