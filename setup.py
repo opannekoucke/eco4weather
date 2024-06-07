@@ -7,7 +7,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="eco4weather",
-    version="1.0.0",
+    version="1.0.1",
     author="Olivier Pannekoucke ",
     author_email="olivier.pannekoucke@meteo.fr",
     description="Econometrics for Weather and Climate Applications & Education",
