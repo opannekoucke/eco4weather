@@ -1,4 +1,4 @@
-[Econometrics for Weather and Climate Applications & Education](https://github.com/opannekoucke/eco4weather) <!-- omit in toc -->
+[Eco4Weather : Econometrics for Weather and Climate Applications & Education](https://github.com/opannekoucke/eco4weather) <!-- omit in toc -->
 ======================
 
 This repository provides tools for exploration of economical application as social planner applied in mitigation to facilitate the academic use and the dissemination. The models are in Python and illustrated in Jupyter notebooks.
